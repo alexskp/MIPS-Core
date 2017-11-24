@@ -1,0 +1,520 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vadder
+Z0 !s110 1511559125
+!i10b 1
+!s100 A[C^1zlN`=fLaTlTQBb`F2
+I4hSh;Da4kmYG@1Hma_J:z2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/workspace/MIPS_core/MIPS-Core
+w1509847697
+8E:/workspace/MIPS_core/MIPS-Core/src/adder.v
+FE:/workspace/MIPS_core/MIPS-Core/src/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1511559125.000000
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_test
+R0
+!i10b 1
+!s100 OcUb6iNgi4iDjZ0?DBXVV1
+IZHKI43hR70TlT8jzMK4Nd2
+R1
+R2
+w1509826973
+8E:/workspace/MIPS_core/MIPS-Core/src/adder_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/adder_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/adder_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/adder_test.v|
+!i113 1
+R5
+R6
+valu
+R0
+!i10b 1
+!s100 DTQZ1cDD0A3j[CDg:D3NE3
+Ifng@=_:6nhm@7OOkUQTIB1
+R1
+R2
+w1509815818
+8E:/workspace/MIPS_core/MIPS-Core/src/alu.v
+FE:/workspace/MIPS_core/MIPS-Core/src/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/alu.v|
+!i113 1
+R5
+R6
+valu_control
+!s110 1511559126
+!i10b 1
+!s100 TAG3zdEba<:AmEVOB7W`G2
+I@@2>b[_HT7f>EWI9A[QUG0
+R1
+R2
+w1509983470
+8E:/workspace/MIPS_core/MIPS-Core/src/alu_control.v
+FE:/workspace/MIPS_core/MIPS-Core/src/alu_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/alu_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/alu_control.v|
+!i113 1
+R5
+R6
+valu_control_test
+!s110 1511559121
+!i10b 1
+!s100 3h6Tibj;FnLJF2OaZCfVd0
+I]G3QMFK@md7GYQ96:k8Cc2
+R1
+R2
+w1509894357
+8E:/workspace/MIPS_core/MIPS-Core/src/alu_control_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/alu_control_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1511559121.000000
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/alu_control_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/alu_control_test.v|
+!i113 1
+R5
+R6
+valu_test
+Z7 !s110 1511559122
+!i10b 1
+!s100 bCk4iEQEWC2CFmmok=d::0
+IS38WP;c6[:QCDimT9@iGl3
+R1
+R2
+w1508800070
+8E:/workspace/MIPS_core/MIPS-Core/src/alu_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/alu_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+Z8 !s108 1511559122.000000
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/alu_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/alu_test.v|
+!i113 1
+R5
+R6
+vcontrol
+R7
+!i10b 1
+!s100 A^_E64h1P3kkRKg`?1DnJ0
+IJ6<FPgBj=@PQfKgj68^K?2
+R1
+R2
+w1510394443
+8E:/workspace/MIPS_core/MIPS-Core/src/control.v
+FE:/workspace/MIPS_core/MIPS-Core/src/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/control.v|
+!i113 1
+R5
+R6
+vcontrol_test
+R7
+!i10b 1
+!s100 fReHmiMRRdTcRWIGIN1VY0
+I:EGg<jdSa=HPY;0ZSD5NU1
+R1
+R2
+w1509962489
+8E:/workspace/MIPS_core/MIPS-Core/src/control_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/control_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/control_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/control_test.v|
+!i113 1
+R5
+R6
+vmips_core
+R7
+!i10b 1
+!s100 kWOe49fQFZ=LHd4JKcjF@2
+IM>DIo`]Z8foJPS2cfRc:`1
+R1
+R2
+w1510002800
+8E:/workspace/MIPS_core/MIPS-Core/src/mips_core.v
+FE:/workspace/MIPS_core/MIPS-Core/src/mips_core.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/mips_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/mips_core.v|
+!i113 1
+R5
+R6
+vmips_core_test
+R7
+!i10b 1
+!s100 =5N^:AdfJF0@^e@MPZFj12
+IQznMgU_J2oHoEbSL]PAOT3
+R1
+R2
+w1511559095
+8E:/workspace/MIPS_core/MIPS-Core/src/mips_core_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/mips_core_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/mips_core_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/mips_core_test.v|
+!i113 1
+R5
+R6
+vmux2in1
+R7
+!i10b 1
+!s100 _d8:EzN1<ZJ>?BzO<X;:N2
+I3Edo>PhGo:<2TPSEGJH;K3
+R1
+R2
+w1507576357
+8E:/workspace/MIPS_core/MIPS-Core/src/mux2in1.v
+FE:/workspace/MIPS_core/MIPS-Core/src/mux2in1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/mux2in1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/mux2in1.v|
+!i113 1
+R5
+R6
+vmux2in1_test
+Z9 !s110 1511559123
+!i10b 1
+!s100 >I@=6J_z9I7R8EEV4Vz1O3
+IFk03DK`^ShHMV31oh^SGD3
+R1
+R2
+w1507586475
+8E:/workspace/MIPS_core/MIPS-Core/src/mux2in1_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/mux2in1_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/mux2in1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/mux2in1_test.v|
+!i113 1
+R5
+R6
+vpc
+R9
+!i10b 1
+!s100 R02jJH@9gaDjNcjHf6COz0
+IW05T6LQ9X6=5cQ@1JXH;;2
+R1
+R2
+w1509828678
+8E:/workspace/MIPS_core/MIPS-Core/src/pc.v
+FE:/workspace/MIPS_core/MIPS-Core/src/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1511559123.000000
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/pc.v|
+!i113 1
+R5
+R6
+vpc_test
+R9
+!i10b 1
+!s100 >BnD=D?5b@S;e6iWkDJ7>3
+IdN:SdH]:lioATF@9?[1a63
+R1
+R2
+w1509828664
+8E:/workspace/MIPS_core/MIPS-Core/src/pc_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/pc_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R10
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/pc_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/pc_test.v|
+!i113 1
+R5
+R6
+vram
+R9
+!i10b 1
+!s100 aT0b?>XGZ0aHm4Ld5lMKB2
+IG2;HW;Jd@7NIKD=I9FO7l0
+R1
+R2
+w1511558483
+8E:/workspace/MIPS_core/MIPS-Core/src/ram.v
+FE:/workspace/MIPS_core/MIPS-Core/src/ram.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/ram.v|
+!i113 1
+R5
+R6
+vram_test
+R9
+!i10b 1
+!s100 =;>Kh4ZK_8R^>[QFUhUzA3
+IMz0ZiKCA2<P`J0H=`J=Vf3
+R1
+R2
+w1508802213
+8E:/workspace/MIPS_core/MIPS-Core/src/ram_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/ram_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R10
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/ram_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/ram_test.v|
+!i113 1
+R5
+R6
+vregFile
+R9
+!i10b 1
+!s100 [@=AloN6ego77Ubh7dX@n2
+Ij]6kjf`XX54_B0^08i^760
+R1
+R2
+w1507615179
+8E:/workspace/MIPS_core/MIPS-Core/src/regFile.v
+FE:/workspace/MIPS_core/MIPS-Core/src/regFile.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/regFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/regFile.v|
+!i113 1
+R5
+R6
+nreg@file
+vregFile_test
+Z11 !s110 1511559124
+!i10b 1
+!s100 =@]EkknWz>8]@6ck[`K8l1
+IZRNAi;W^FdFXO]Z;]kQnk1
+R1
+R2
+w1507586364
+8E:/workspace/MIPS_core/MIPS-Core/src/regFile_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/regFile_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+Z12 !s108 1511559124.000000
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/regFile_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/regFile_test.v|
+!i113 1
+R5
+R6
+nreg@file_test
+vrom
+R11
+!i10b 1
+!s100 C_llMbZ1E@<?9A]Tgkz=T0
+I6HO@?4a:1eR_OaA7`mJR;2
+R1
+R2
+w1511558466
+8E:/workspace/MIPS_core/MIPS-Core/src/rom.v
+FE:/workspace/MIPS_core/MIPS-Core/src/rom.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/rom.v|
+!i113 1
+R5
+R6
+vrom_test
+R11
+!i10b 1
+!s100 PW00Q3=P8MY:8Ko6[PX@=1
+IX8e?_fEkC_[n[jbJRF^=C1
+R1
+R2
+w1508801481
+8E:/workspace/MIPS_core/MIPS-Core/src/rom_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/rom_test.v
+L0 4
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/rom_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/rom_test.v|
+!i113 1
+R5
+R6
+vshiftLeftBy2
+R11
+!i10b 1
+!s100 =71H>5CP@KP;4FmBa1G3V1
+IIV:dLCfJ^Jb<PK9MAQoWG0
+R1
+R2
+w1507582043
+8E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2.v
+FE:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2.v|
+!i113 1
+R5
+R6
+nshift@left@by2
+vshiftLeftBy2_test
+R11
+!i10b 1
+!s100 nXP=njoO4S`IHTkih=6H>2
+IJZLQkH^36D7=;GJLelj;M2
+R1
+R2
+w1507586921
+8E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2_test.v
+L0 5
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/shiftLeftBy2_test.v|
+!i113 1
+R5
+R6
+nshift@left@by2_test
+vsignExtend
+R0
+!i10b 1
+!s100 ]cQZe<A`mEz27[M;h[N:R0
+Iz1h2PiOc[7WXzDf>X<VH91
+R1
+R2
+w1507615965
+8E:/workspace/MIPS_core/MIPS-Core/src/signExtend.v
+FE:/workspace/MIPS_core/MIPS-Core/src/signExtend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/signExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/signExtend.v|
+!i113 1
+R5
+R6
+nsign@extend
+vsignExtend_test
+R0
+!i10b 1
+!s100 j5iM1?cX]_C3mHL79>G760
+IbhjLZa=HH7^=eB1^gQ5G70
+R1
+R2
+w1507616318
+8E:/workspace/MIPS_core/MIPS-Core/src/signExtend_test.v
+FE:/workspace/MIPS_core/MIPS-Core/src/signExtend_test.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/workspace/MIPS_core/MIPS-Core/src/signExtend_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/workspace/MIPS_core/MIPS-Core/src/signExtend_test.v|
+!i113 1
+R5
+R6
+nsign@extend_test
